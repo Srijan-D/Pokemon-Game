@@ -1,0 +1,19 @@
+.Pokedex{
+    text-align: center;
+}
+.Pokedex-cards {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.heading {
+  width: 100px;
+  margin: 10px auto;
+  color: rgb(99, 192, 161);
+}
+.Winner{
+    color: rgb(47, 255, 68);
+}
+.Unlucky{
+color: rgba(255, 0, 0, 0.89);
+}
